@@ -1,5 +1,5 @@
 # LyraBlockingOut
-Extracted blocking out tools from official Lyra example as a plugin
+Extracted blocking out tools from unreal engine 5 official Lyra example as a plugin.
 
 
 ## Usage
