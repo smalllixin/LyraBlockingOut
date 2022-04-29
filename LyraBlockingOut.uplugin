@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "LyraBlockingOut",
+	"Description": "Extract BlockingOut Tools from Lyra project",
+	"Category": "Tool",
+	"CreatedBy": "LyraBlockingOut",
+	"CreatedByURL": "",
+	"DocsURL": "https://docs.unrealengine.com/5.0/en-US/lyra-sample-game-in-unreal-engine/",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "GeometryScripting",
+			"Enabled": true
+		}
+	]
+}
